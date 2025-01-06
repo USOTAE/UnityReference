@@ -42,7 +42,7 @@ public class EntityFX : MonoBehaviour
         
         originalMat = sr.material;
 
-        myHealthBar = GetComponentInChildren<UI_HealthBar>().gameObject;
+        myHealthBar = GetComponentInChildren<UI_HealthBar>(true).gameObject;
     }
 
     public void CreatePopUpText(string _text)
