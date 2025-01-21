@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c50cf0c674d6bb444a59ad3b67ec3f94, type: 3}
+  m_Name: Silver
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: "\u94F6\u5757"
+  itemIcon: {fileID: 1100927855, guid: b2d91a41bd26488479703d58a716115c, type: 3}
+  itemBackgroundIcon: {fileID: 21300000, guid: 3d3c946333afb5544ae208f7b2ba5ab8, type: 3}
+  itemId: 79a680e1c3276fb42acf3fb40867db38
+  dropChance: 0
+  itemDescription: "\u94F6\u5757\u6563\u53D1\u7740\u5FAE\u5F31\u7684\u5149\u6CFD\uFF0C\u8C61\u5F81\u7740\u7EAF\u51C0\u548C\u529B\u91CF"
