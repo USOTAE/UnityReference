@@ -13,17 +13,18 @@ MonoBehaviour:
   m_Name: Sword
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: Sword
+  itemName: "\u66B4\u51FB\u5251"
   itemIcon: {fileID: -1548652441, guid: da1d0d0cea2353440a31f5472869679b, type: 3}
   itemBackgroundIcon: {fileID: 21300000, guid: 3d3c946333afb5544ae208f7b2ba5ab8, type: 3}
   itemId: 8d580ad0dd4367a479185feb78c98f00
   dropChance: 100
-  itemDescription: this is a normal sword
+  itemDescription: "\u4E00\u628A\u62E5\u6709\u6781\u9AD8\u66B4\u51FB\u7387\u7684\u5251"
   equipmentType: 0
   itemEffectCooldown: 0
+  itemEffects: []
   attack: 100
-  critChance: 100
-  critPower: 100
+  critChance: 70
+  critPower: 0
   fireDamage: 0
   iceDamage: 0
   lightningDamage: 0
